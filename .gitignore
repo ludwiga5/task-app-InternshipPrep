@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+target/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE/editor
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Java
+*.class
+
+# Maven wrapper jar is usually committed, but this ignores random jars
+*.jar
+
+# Neovim swap files
+*.swp
+*.swo
